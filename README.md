@@ -25,8 +25,8 @@ before log
     -   week 2 partial
 
 January 12, 2025
-    - C++ Game dev
+    - C++ Game dev (just got curious)
         * visit ![credits](./references.md)
-    
+    - Settinging up SDL 
 
 
