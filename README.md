@@ -18,5 +18,15 @@ This repository is based on what I'm currently studying. I'll do my best to crea
 
 
 
+## Developer log
+before log
+> Cs50
+    -   week 1
+    -   week 2 partial
+
+January 12, 2025
+    - C++ Game dev
+        * visit ![credits](./references.md)
+    
 
 
