@@ -30,3 +30,7 @@ January 12, 2025
     - Settinging up SDL 
 
 
+> Labratory 2 basic calculator
+    - Students learns how to do calculator shit
+
+
